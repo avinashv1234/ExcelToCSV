@@ -1,0 +1,19 @@
+
+[xxxx]
+cnt = 3
+filenm = xxxx.xlsx
+csv1 = xx1.csv
+csv2 = xx2.csv
+csv3 = xx3.csv
+path = /filepath/
+
+
+[cccc]
+cnt = 3
+filenm = cccc.xlsx
+csv1 = cc1.csv
+csv2 = cc2.csv
+csv3 = cc3.csv
+path = /filepath/
+
+
