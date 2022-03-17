@@ -54,7 +54,7 @@ for f in fileList:
     read_file.to_csv (path + r'\\' + csvfile , index = None, header=True)
 
 
-#convert CoStar_DataExport_Industrial sheet to csv file
+#convert xxxx sheet to csv file
 #read_file = pd.read_excel (path + r'\xxxx.xlsx', sheet_name='xxxx')
 #read_file.to_csv (path + r'\xxxx.csv', index = None, header=True)
 
